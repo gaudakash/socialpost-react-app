@@ -1,0 +1,17 @@
+.Main-Container {
+  display: flex;
+}
+
+.body {
+  border: 1px solid blue;
+  border-radius: 8px;
+  background-color: aliceblue;
+}
+
+.wlcomemessage {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  color: aqua;
+  font-weight: 600;
+}
